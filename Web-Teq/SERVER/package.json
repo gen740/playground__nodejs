@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.15.0",
+    "@babel/preset-flow": "^7.14.5",
+    "flow-bin": "^0.157.0"
+  },
+  "script": {
+    "flow": "flow"
+  }
+}

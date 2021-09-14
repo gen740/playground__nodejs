@@ -1,0 +1,10 @@
+{
+    "hoge": {
+        "id": "hoge",
+        "name": "ほげ"
+    },
+    "fuga": {
+        "id": "fuga",
+        "name": "ふが"
+    }
+}
